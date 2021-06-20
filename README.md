@@ -19,7 +19,7 @@ I am an aspiring full Stack Developer with 5 years of freelance experience in we
 * CodeTribe Angular Ionic Web Developer Bootcamp @ Mobile Laboratories South Africa
 * Python, Flutter, Java etc certificates @ Udemy 
 ---
-## 2021 GoalS ✨
+## 2021 Goals ✨
 
 * Become proficient in building chatbots and working with NLP technology 
 * Build incredible Augmented reality tools/apps and fun filters
