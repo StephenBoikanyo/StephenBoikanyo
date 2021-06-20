@@ -5,7 +5,7 @@
 I am an aspiring full Stack Developer with 5 years of freelance experience in web development. I am predominantly selftaught. I am Computer Science major at the University Of the Western Cape in Cape Town,South Africa. I am currently building an interesting portofolio filled with a great range of projects to prove my competency as a developer to attract recruiters and clients. I aspire to one day run a fantastic startup or work for Instagram or Whatsapp, whichever comes first. 
 
 ---
-## Past Experience
+## Past Experience ✨
 
  * Community Manager @ Zaio.io
  * Social Media Manager @ Zaio.io
@@ -13,13 +13,13 @@ I am an aspiring full Stack Developer with 5 years of freelance experience in we
  * Angular - Ionic intern @ Mobile Laboratories South Africa
  * Webmaster @ University of the Western Cape IEEE Student Branch 
  ---
-## Education Formal and Informal
+## Education Formal and Informal ✨
 
 * Computer Science & Statistics @ The University of the Western Cape 
 * CodeTribe Angular Ionic Web Developer Bootcamp @ Mobile Laboratories South Africa
 * Python, Flutter, Java etc certificates @ Udemy 
 ---
-## 2021 Goal
+## 2021 GoalS ✨
 
 * Become proficient in building chatbots and working with NLP technology 
 * Build incredible Augmented reality tools/apps and fun filters
