@@ -23,7 +23,7 @@ I am an aspiring full Stack Developer with 5 years of freelance experience in we
 
 * Become proficient in building chatbots and working with NLP technology 
 * Build incredible Augmented reality tools/apps and fun filters
-* Utilize and leverage Facebook developer to build extreme comptency in working with API's 
+* Utilize and leverage Facebook developer tools to build extreme comptency in working with API's 
 * Read 2 books to completion. 
 * Earn a full-time remote Software Engineering role at a reputable tech company like Facebook 
 
