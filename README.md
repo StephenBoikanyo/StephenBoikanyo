@@ -2,7 +2,12 @@
 
 ## Hey there 👋
 
-I am an aspiring full Stack Developer with 5 years of programming experience, split between contractual and full time employment. I am predominantly selftaught. I have been a Computer Science major at the University Of the Western Cape in Cape Town,South Africa since 2018. I am currently building an interesting portofolio filled with a great range of projects to prove my competency as a developer to attract recruiters and clients. One of my bigggest aspirations is to work for a FAANG company before retring in tech. 
+I am focused on building scalable technologies with robust frameworks and someone who prides himself on working hard to accomplish tasks. I  have a lot to offer with a diverse background and skill set. 
+
+I have 5+  years of experience in programming, split between contractual projects and professional full-time work as well as being in part-time pursual of my bachelor in Computer Science.  
+
+I am open to any work that closely matches my skill set and knowledge base. I  have mid-to senior-level skills working in Flutter mobile application development, product design, working in agile development, and working with APIs, and really believe I can be an asset to your company. I am attracted by the remote work opportunities and am disciplined enough to complete the work assigned to me.
+
 
 ---
 ## Past Experience ✨
