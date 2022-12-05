@@ -1,16 +1,21 @@
 ![Social banner for StephenBoikanyo](https://github.com/StephenBoikanyo/StephenBoikanyo/blob/main/assets/Banner.png)
 
 ## Hey there 👋
-
-I am focused on building scalable technologies with robust frameworks and someone who prides himself on working hard to accomplish tasks. I  have a lot to offer with a diverse background and skill set. 
-
-I have 5+  years of experience in programming, split between contractual projects and professional full-time work as well as being in part-time pursual of my bachelor in Computer Science.  
-
-I am open to any work that closely matches my skill set and knowledge base. I  have mid-to senior-level skills working in Flutter mobile application development, product design, working in agile development, and working with APIs, and really believe I can be an asset to your company. I am attracted by the remote work opportunities and am disciplined enough to complete the work assigned to me.
+> HIRE ME !!
+I am open to any work that closely matches my skill set and knowledge base. I  have mid-to senior-level skills working in Flutter mobile application development, product design, working in agile development, and working with APIs. I am attracted by the remote work opportunities.
 
 
 ---
 ## Past Experience ✨
+ * Software Engineer  @ Evanswerks
+ >At EvansWerks, I worked with Electronic, mechanical, and firmware Engineers to bring about a new
+connected device. I worked on the mobile app responsible for communicating over Bluetooth on a
+Bluetooth mesh network, sending messages over for changes in Brightness, DMX values, changing RGB
+values, and more.
+ > >* Designed product UI and UX in Figma.
+ > >* Defined technical specification and designed architecture
+ > >* Implemented technical specification into clean, reusable classes and components.
+ > >* Used Git & Github for version control, with daily commits
  * Lead Mobile Developer  @ The RealtyPA 
  > >* Designed product UI and UX in Figma.
  > >* Defined technical specification and designed architecture
