@@ -1,11 +1,11 @@
 ![Social banner for StephenBoikanyo](https://github.com/StephenBoikanyo/StephenBoikanyo/blob/main/assets/Banner.png)
 <p align= "middle">👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋</p>
 
-## <p align= "middle">"Hey Google, play Lost by Frank Ocean on Spotify"</p>
+## <p align= "middle">"Hey Google, play Reality Check by Noname on Spotify"</p>
 
 ##### <p align = "middle" >Hey there, my  name is Stephen, I love listening to music, reading, watching movies and most importantly being the right developer for the job</p>
 > HIRE ME !!
-I am open to developer roles that closely matche my skill set and knowledge base. I  have mid-to senior-level skills working in mobile application development sepcialising in Flutter, product design, working in agile development, and working with APIs. I am attracted by the remote work opportunities.
+I am open to developer roles that closely match my skill set. I  have mid-level to senior-level skills working in mobile application development specialising in Flutter, product design, working in agile development, and working with APIs. I am attracted by the remote work opportunities.
 
 
 ---
