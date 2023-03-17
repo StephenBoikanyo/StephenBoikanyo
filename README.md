@@ -3,12 +3,19 @@
 
 ## <p align= "middle">"Hey Google, play Reality Check by Noname on Spotify"</p>
 
-##### <p align = "middle" >Hey there, my  name is Stephen</p>
-> As a mobile application developer , I specialize in using Flutter and have experience in product design, working in agile development, and working with APIs. I am passionate about remote work opportunities, and I believe that my skills and experience make me a strong candidate for any position that requires working in a distributed environment. Please feel free to reach out to me to discuss any open positions that match my skills and interests. Thank you for your time, and I look forward to hearing from you soon.
+##### <p align = "middle" >Hey there, my  name is Stephen, I am a Full Stack Engineer @FlatRockSolutiosn</p>
+> As a mobile application developer , I specialize in using Flutter and have experience in product design, working in agile development, and working with APIs. 
 
 
 ---
 ## Employment Experiences ✨
+* Full Stack Engineer  @ FlatRockSolutions 📍
+ >I currently work with an amazing team of developers in a distributed environment,delievering custom, scalable solutions to clients to meet their needs. My primary focus is working with Flutter  the BloC pattern and doing adhoc work across various projects. 
+ > >### My responsibilities include but not limited to:
+ > >* Implementing technical specifications into clean, reusable classes and components
+ > >* Building and implementing core components and features
+ > >* Using a version control system (Github & Gitlab) to manage daily commits and progress
+ 
  * Software Engineer  @ Evanswerks
  >At EvansWerks, I collaborated with a team of electronic, mechanical, and firmware engineers to developa new connected device. I focused on the mobile app that communicates over Bluetooth on a Bluetoothmesh network, sending messages to change brightness, DMX values, RGB values, and more. My app was responsible for interacting with an ESP32 microcontroller
  > >* Defining technical specifications from requirements
