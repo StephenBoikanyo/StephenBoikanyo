@@ -4,7 +4,7 @@
 ## <p align= "middle">"Hey Google, play Reality Check by Noname on Spotify"</p>
 
 ##### <p align = "middle" >Hey there, my  name is Stephen, and I am open to work</p>
-> I primarily work as a mobile developer building applications in Flutter and have experience 
+> I primarily work as a mobile developer building applications in Flutter.
 
 
 ---
