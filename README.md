@@ -3,7 +3,7 @@
 
 ## <p align= "middle">"Hey Google, play Reality Check by Noname on Spotify"</p>
 
-<a href="https://app.daily.dev/stephenboikanyo"><img src="https://api.daily.dev/devcards/v2/6TPAfpR7pHU0rU1q1oycc.png?r=sjm" width="356" alt="Stephen Boikanyo's Dev Card"/></a>
+<center><a href="https://app.daily.dev/stephenboikanyo"><img src="https://api.daily.dev/devcards/v2/6TPAfpR7pHU0rU1q1oycc.png?r=sjm" width="356" alt="Stephen Boikanyo's Dev Card"/></a></center>center>
 
 ##### <p align = "middle" >Hey there, my  name is Stephen, and I am open to work</p>
 > I primarily work as a mobile developer building applications in Flutter.
