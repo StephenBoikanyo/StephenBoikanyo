@@ -13,7 +13,7 @@
 
 ---
 ## What's Next✨
-> I want to settle into a stable and healthy remote role working continuing my work as Mobile Software Engineer, focusing on creating impactful and user-friendly applications with  Flutter, Dart, Kotlin, and Java etc. I'm excited about opportunities across various industries where I can contribute to innovative projects. I thrive in collaborative environments that value continuous learning and best practices. My passion lies in building technology that people engage with daily. I'm versatile and eager to work on any technology that enhances my value to my team and employer while advancing my career, with a focus on creating beautiful, seamless mobile apps.
+> I want to settle into a stable and healthy remote role continuing my work as Mobile Software Engineer, focusing on creating impactful and user-friendly applications with  Flutter, Dart, Kotlin, and Java etc. I'm excited about opportunities across various industries where I can contribute to innovative projects. I thrive in collaborative environments that value continuous learning and best practices. My passion lies in building technology that people engage with daily. I'm versatile and eager to work on any technology that enhances my value to my team and employer while advancing my career, with a focus on creating beautiful, seamless mobile apps.
 
  ---
 ## Educational Experiences - Formal & Informal ✨
